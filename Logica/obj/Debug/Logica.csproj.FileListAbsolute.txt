@@ -1,0 +1,7 @@
+c:\users\azuretools\documents\visual studio 2013\Projects\CrudLibrería\Logica\bin\Debug\Logica.dll
+c:\users\azuretools\documents\visual studio 2013\Projects\CrudLibrería\Logica\bin\Debug\Logica.pdb
+c:\users\azuretools\documents\visual studio 2013\Projects\CrudLibrería\Logica\bin\Debug\databaseConnection.dll
+c:\users\azuretools\documents\visual studio 2013\Projects\CrudLibrería\Logica\bin\Debug\databaseConnection.pdb
+c:\users\azuretools\documents\visual studio 2013\Projects\CrudLibrería\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+c:\users\azuretools\documents\visual studio 2013\Projects\CrudLibrería\Logica\obj\Debug\Logica.dll
+c:\users\azuretools\documents\visual studio 2013\Projects\CrudLibrería\Logica\obj\Debug\Logica.pdb
